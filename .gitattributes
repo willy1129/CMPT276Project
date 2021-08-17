@@ -1,5 +1,5 @@
-Design/
-Documents/
-.idea/
-.gradle/
+Design/* linguist-vendored
+Documents/* linguist-vendored
+.idea/* linguist-vendored
+.gradle/* linguist-vendored
 
