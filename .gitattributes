@@ -1,2 +1,5 @@
-Design/* linguist-vendored
-Documents/* linguist-vendored
+Design/
+Documents/
+.idea/
+.gradle/
+
