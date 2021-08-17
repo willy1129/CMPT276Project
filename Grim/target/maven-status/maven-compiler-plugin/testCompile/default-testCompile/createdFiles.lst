@@ -1,0 +1,6 @@
+entity\Item\BonusRewardTest.class
+controller\ControllerIT.class
+entity\Item\PunishmentTest.class
+entity\Item\RegularRewardTest.class
+board\BoardIT.class
+cells\CellTest.class
