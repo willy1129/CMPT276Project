@@ -1,5 +1,2 @@
-Design/* linguist-vendored
-Documents/* linguist-vendored
-.idea/* linguist-vendored
-.gradle/* linguist-vendored
-
+*.pdf linguist-detectable=false
+*.html linguist-detectable=false
